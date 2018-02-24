@@ -1,4 +1,8 @@
 GettingAndCleaningData Course Project v.1
+Author: Jorge Vinseiro
+
+reference used: Dave Holtzhouser
+                https://github.com/dholtz/GettingAndCleaningData
 
 Repository for Cousera: https://github.com/vinseiroja/ProgrammingAssigment3
 

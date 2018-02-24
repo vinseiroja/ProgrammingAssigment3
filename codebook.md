@@ -1,5 +1,8 @@
 Codebook for Coursera Course
 ========================
+Author: Jorge Vinseiro
+reference used: Dave Holtzhouser
+                https://github.com/dholtz/GettingAndCleaningData
 [Getting and Cleaning Data](https://class.coursera.org/getdata-008)
 
 File: [tidyData.txt](https://github.com/dholtz/GettingAndCleaningData/blob/master/tidyData.txt)
